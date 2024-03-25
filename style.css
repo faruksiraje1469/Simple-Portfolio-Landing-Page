@@ -1,0 +1,104 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.full_page{
+    /* background-color: rgb(18, 12, 43); */
+    background-color: #0C151D;;
+}
+.header{
+    padding: 70px;
+}
+.logo_img img{
+    padding-left: 23rem;
+   
+}
+.port_name h4{
+    color: white;
+    padding-top: 2.5rem;
+    font-weight: 600;
+    font-size: 40px;
+}
+.port_name p{
+    font-size: 14px;
+    color: white;
+}
+.summery{
+    padding: 0px 140px 0px 300px;
+}
+.summery h5{
+    text-align: center;
+    color: white;
+    font-size: 15px;
+}
+.summery p{
+    color: white;
+    text-align: center;
+}
+/* .cv_btn {
+    padding: 25px;
+}
+.cv_btn .dwnl {
+    padding-left: 32rem;
+   
+}
+.btn-primary {
+    color:black;
+    background-color: #f5d647d4;
+    border-color: #f3f5f7;
+    border-radius: 5%;
+    
+}
+.btn-primary .dwnl {
+    color:black;
+    background-color: #c90bc902;
+    border-color: #f3f5f7;
+    border-radius: 5%;
+    
+} */
+.cv{
+    padding:1.5rem 25rem;
+   
+
+
+}
+.skill{
+    padding: 3rem 21rem;
+    
+   
+
+}
+.img-content{
+    padding: 2rem 20rem;
+    width: 757px;
+    height: 826px;
+    top: 982px;
+    left: 485px;
+    border-radius: 20px;
+
+}
+
+/* .content_img{
+    padding: 10px 10px;
+    margin-left: 14rem;
+    
+}
+.content_img .photo{
+    padding-left:6rem ;
+} */
+
+.footer{
+    padding: 5rem;
+    text-align: center;
+    color: white;
+    font-family: Poppins;
+    font-size: 22px;
+    font-weight: 500;
+    line-height: 33px;
+    letter-spacing: 0em;
+
+
+    
+}
+
+
